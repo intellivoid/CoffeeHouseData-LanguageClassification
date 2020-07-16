@@ -39,7 +39,7 @@ make test
 ## Adding more data
 
 Simply add a bunch of English sentences to a file named input.txt
-and run the generate_dat command
+and run the generate_data command
 
 ```sh
 make generate_data
