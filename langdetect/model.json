@@ -7,9 +7,9 @@
         "description": "Model for predicting a given languge (106 Supported Languages)"
     },
     "training_properties":{
-        "epoch": 30,
+        "epoch": 15,
         "vec_dim": 200,
-        "test_ratio": 0.8,
+        "test_ratio": 0.4,
         "architecture": "cnn",
         "batch_size": 256
     },
